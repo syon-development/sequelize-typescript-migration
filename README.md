@@ -238,7 +238,3 @@ won't update automatically. There are easy but important steps:
 4) Test the automatically created file's down function `sequelize db:migrate:undo`
 5) If there are any troubles, fix the auto-generated file (ordering!)
 6) Run `sequelize db:migrate:undo` and continue your amazing work
-
-## Documentation
-
-not ready yet.
