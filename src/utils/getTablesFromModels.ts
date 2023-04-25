@@ -51,6 +51,7 @@ export default function reverseModels(
       }
 
       rowAttribute = {
+        ...rowAttribute,
         seqType: seqType,
       };
 
