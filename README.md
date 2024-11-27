@@ -1,5 +1,7 @@
 # sequelize-typescript-migration
 
+**Deprecated**: This repository is deprecated and should not be used any longer!
+
 It is based on [sequelize-typescript](https://www.npmjs.com/package/sequelize-typescript), not supports "sequelize" based model codes.
 and you need prior knowledge of migration of Sequelize.
 
